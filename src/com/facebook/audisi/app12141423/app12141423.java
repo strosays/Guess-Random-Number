@@ -118,7 +118,7 @@ public class app12141423 {
             main.totalNilai();
             main.Reset();
           }
-        }while(!"T".equals(main.nama)); 
+        }while(!"Q".equals(main.nama)); 
         
     }    
 }
